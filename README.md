@@ -45,8 +45,16 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=asif734&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=asif734&show_icons=true&theme=dracula" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif734&layout=compact&theme=dracula" height="160" alt="languages graph" />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+Full-Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
+
 
 ###
 
