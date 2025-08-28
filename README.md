@@ -14,17 +14,18 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sklearn" height="60" alt="Scikit-learn logo" />
   <img width="12" />
-  <img src="https://github.com/Asif734/asif734/blob/main/pandas.svg" height="60" alt="Pandas logo" />
-  <img width="12" />
-  <img src="https://github.com/Asif734/asif734/blob/main/logo%20numpy.svg" height="60" alt="NumPy logo" />
-  <img width="12" />
-  <img src="https://github.com/Asif734/asif734/blob/main/N8N-badge.png" height="60" alt="N8N logo" />
-  <img width="12" />
-  <img src="https://github.com/Asif734/asif734/blob/main/seaborn-1.svg" height="60" alt="Seaborn logo" />
-  <img width="12" />
-  <img src="https://github.com/Asif734/asif734/blob/main/langchain1.png" height="60" alt="LangChain logo" />
-  <img width="12" />
-  <img src="https://github.com/Asif734/asif734/blob/main/hf-logo.svg" height="60" alt="Transformers logo" />
+  <img src="https://github.com/Asif734/asif734/blob/main/pandas.svg" height="50" alt="Pandas logo" />
+  <img width="10" />
+  <img src="https://github.com/Asif734/asif734/blob/main/logo%20numpy.svg" height="50" alt="NumPy logo" />
+  <img width="10" />
+  <img src="https://github.com/Asif734/asif734/blob/main/N8N-badge.png" height="50" alt="N8N logo" />
+  <img width="10" />
+  <img src="https://github.com/Asif734/asif734/blob/main/seaborn-1.svg" height="50" alt="Seaborn logo" />
+  <img width="10" />
+  <img src="https://github.com/Asif734/asif734/blob/main/langchain1.png" height="50" alt="LangChain logo" />
+  <img width="10" />
+  <img src="https://github.com/Asif734/asif734/blob/main/hf-logo.svg" height="50" alt="Transformers logo" />
+  <img width="10" />
 </div>
 
 <br>
