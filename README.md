@@ -2,31 +2,52 @@
 
 ###
 
+<!-- Section 1: Python, C++, ML-related -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++ logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="PyTorch logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="TensorFlow logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="60" alt="Scikit-learn logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img src="https://github.com/Asif734/asif734/blob/main/pandas.svg" height="60" alt="Pandas logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img src="https://github.com/Asif734/asif734/blob/main/logo%20numpy.svg" height="60" alt="NumPy logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img src="https://github.com/Asif734/asif734/blob/main/N8N-badge.png" height="60" alt="N8N logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img src="https://github.com/Asif734/asif734/blob/main/seaborn-1.svg" height="60" alt="Seaborn logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo"  />
+  <img src="https://github.com/Asif734/asif734/blob/main/langchain1.png" height="60" alt="LangChain logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+  <img src="https://github.com/Asif734/asif734/blob/main/hf-logo.svg" height="60" alt="Transformers logo" />
 </div>
+
+<br>
+
+<!-- Section 2: Other tools & frameworks -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="FastAPI logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="Linux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VSCode logo" />
+</div>
+
 
 ###
 
