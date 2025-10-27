@@ -74,7 +74,7 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+ML+Engineer;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+ML+Engineer;Ocational+DevOps+Engineer;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 
