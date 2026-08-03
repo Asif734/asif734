@@ -68,7 +68,7 @@
 </a>
 </div>
 <div align="center">
-  <a href="https://drive.google.com/file/d/1ghkjQSupIc2GDd0s457NU_o4SMCQ0VD-/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1GrkmGnzpkJoWYWrREOC3TA9YhOiupV6X/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/static/v1?message=View+Resume&logo=google&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="resume button" />
   </a>
 </div>
